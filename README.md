@@ -19,7 +19,7 @@ The report is designed to analyze sales performance at multiple levels, includin
 - Sales margin analysis
 - Sales incentive calculation
 1. Graphical
-   <img width="1227" height="633" alt="image" src="https://github.com/user-attachments/assets/47f834ff-01dc-43c2-8825-f6f8675eb93c" />
+ <img width="1227" height="633" alt="image" src="https://github.com/user-attachments/assets/47f834ff-01dc-43c2-8825-f6f8675eb93c" />
   
 2.Top to Bottom Retail by Qty Sale With out Rx.
 <img width="1017" height="1209" alt="image" src="https://github.com/user-attachments/assets/037a8663-d47e-4818-bdda-c8ba711394a2" />
