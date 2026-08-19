@@ -18,13 +18,16 @@ The report is designed to analyze sales performance at multiple levels, includin
 - Lens value analysis
 - Sales margin analysis
 - Sales incentive calculation
-1.Top to Bottom Retail by Qty Sale With out Rx.
+1. Graphical
+   <img width="1227" height="633" alt="image" src="https://github.com/user-attachments/assets/47f834ff-01dc-43c2-8825-f6f8675eb93c" />
+  
+2.Top to Bottom Retail by Qty Sale With out Rx.
 <img width="1017" height="1209" alt="image" src="https://github.com/user-attachments/assets/037a8663-d47e-4818-bdda-c8ba711394a2" />
 
-2.Contribution: Frame / Sunglass / Lens
+3.Contribution: Frame / Sunglass / Lens
 <img width="722" height="76" alt="image" src="https://github.com/user-attachments/assets/791f5c32-2a9b-4b6c-b049-223a0c831cbb" />
 
-3.Monthly Trend Without Rx.
+4.Monthly Trend Without Rx.
 <img width="1125" height="553" alt="image" src="https://github.com/user-attachments/assets/8a6f5ee7-5914-4771-9095-c4a8ddaef65a" />
 
 
