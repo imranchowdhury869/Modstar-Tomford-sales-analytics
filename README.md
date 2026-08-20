@@ -29,8 +29,8 @@ The report is designed to analyze sales performance at multiple levels, includin
 <img width="379" height="276" alt="image" src="https://github.com/user-attachments/assets/9b04411e-3efb-498f-aeb3-9e5d764271cb" />
 
 
-4.Monthly Trend Without Rx.
-<img width="1125" height="553" alt="image" src="https://github.com/user-attachments/assets/8a6f5ee7-5914-4771-9095-c4a8ddaef65a" />
+4.Monthly Sales Trend Without Rx.
+<img width="1148" height="660" alt="image" src="https://github.com/user-attachments/assets/74be8860-c5ab-486c-9391-fb5a566ea5a7" />
 
 
 The objective of this project is to convert raw retail sales data into a structured and management-friendly analytical report.
