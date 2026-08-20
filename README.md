@@ -24,7 +24,7 @@ The report is designed to analyze sales performance at multiple levels, includin
 2.Top to Bottom Retail by Qty Sale With out Rx.
 <img width="1017" height="1209" alt="image" src="https://github.com/user-attachments/assets/037a8663-d47e-4818-bdda-c8ba711394a2" />
 
-3.Contribution
+3.Contribution:
 <img width="379" height="276" alt="image" src="https://github.com/user-attachments/assets/9b04411e-3efb-498f-aeb3-9e5d764271cb" />
 
 
