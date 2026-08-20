@@ -1,4 +1,4 @@
-# 📊 Modstar Tom Ford Sales Analytics – Excel Dashboard
+# 📊 Sales Analytics – Excel Dashboard
 
 ## 📌 Project Overview
 
