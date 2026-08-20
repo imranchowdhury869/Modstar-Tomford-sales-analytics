@@ -25,7 +25,7 @@ The report is designed to analyze sales performance at multiple levels, includin
 <img width="1017" height="1209" alt="image" src="https://github.com/user-attachments/assets/037a8663-d47e-4818-bdda-c8ba711394a2" />
 
 3.Contribution
-<img width="722" height="76" alt="image" src="https://github.com/user-attachments/assets/791f5c32-2a9b-4b6c-b049-223a0c831cbb" />
+<img width="745" height="545" alt="image" src="https://github.com/user-attachments/assets/3c3227b6-e97f-4650-b3cf-dc1b29fc7584" />
 
 4.Monthly Trend Without Rx.
 <img width="1125" height="553" alt="image" src="https://github.com/user-attachments/assets/8a6f5ee7-5914-4771-9095-c4a8ddaef65a" />
